@@ -159,12 +159,12 @@ h6 {
 
 
 #header .logo small {
-  font-size: 15px;
+  font-size: 14px;
   display: block;
   text-align: center;
   position: relative;
   top: -10px;
-  left: 18px;
+  left: 0;
 }
 
 #header .logo h1 a,
@@ -213,8 +213,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
-  text-decoration: underline;
+  color: #ffffff;
 }
 
 #intro .intro-info .btn-get-started,
@@ -232,9 +231,9 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
-  color: #fff;
+  background: #ffffff;
+  border: 2px solid #f1f1f1;
+  color: #000;
 }
 
 #intro .intro-info .btn-get-started:hover {
@@ -248,9 +247,9 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
-  color: #fff;
+  background: #fff;
+  border-color: #fff;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
